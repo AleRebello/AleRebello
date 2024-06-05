@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Rebello</h1>
-<h3 align="center">Estou em busca de novos desafios, e realizei um curso de Analista de QA, também podemos dizer, analista de testes de software. O bootcamp da TripleTen, sempre quis aprender algo em ralação a tecnologia da informação, então agora tenho o conhecimento de um analista júnior de testes aberto a novos desafios e disposto á colaborar com esse universo as empresas deste segmento.</h3>
+<h3 align="center">Estou em busca de novos desafios, realizei um curso de Analista de QA, também podemos dizer, analista de testes de software. O bootcamp da TripleTen. Aprendi a criar testes para software de forma prática, e dinâmica. Montando design de testes, para web e apps, usando ferramentas como: Jira para os bugs, Postaman/API, SQL/banco de dados. Disposto á colaborar com esse universo as empresas deste segmento.</h3>
 
 - 🔭 I’m currently working on **Riccio Cucina Artgianale**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Rebello</h1>
-<h3 align="center">Estou em busca de novos desafios, realizei um curso de Analista de QA, também podemos dizer, analista de testes de software. O bootcamp da TripleTen. Aprendi a criar testes para software de forma prática, e dinâmica. Montando design de testes, para web e apps, usando ferramentas como: Jira para os bugs, Postaman/API, SQL/banco de dados. Disposto á colaborar com esse universo as empresas deste segmento.</h3>
+<h3 align="center">Estou em busca de novos desafios, e realizei um curso de Analista de QA, também podemos dizer, analista de testes de software. O bootcamp da TripleTen, sempre quis aprender algo em ralação a tecnologia da informação, então agora tenho o conhecimento de um analista júnior de testes aberto a novos desafios e disposto á colaborar com esse universo as empresas deste segmento.</h3>
 
 - 🔭 I’m currently working on **Riccio Cucina Artgianale**
 
@@ -17,4 +17,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>

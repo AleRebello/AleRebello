@@ -50,7 +50,8 @@
 Obtive 100% de êxito em todos os projetos. Foram concluídos do início ao final. Com toda entrega de tarefas propostas pelo curso.
 
 #### Comentário
-Gostei bastante da parte de SQL comandos e da parte de back End.
+Me identifiquei bastante na parte de SQL comandos e da parte de back End.
+Usando o Postman, Jira, Endpoint.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,10 +11,8 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/alexcrebello](www.linkedin.com/in/alexcrebello)
 
-- # BootCamp Analista de QA
-
-<img src="C:\Users\champ\OneDrive\Documentos\Bootcamp QA Tripleten\imagens\triple logo.jpg">
-
+### BootCamp Analista de QA
+  
 #### Sprint 1 
 - Introdução à análise de QA
 - O que são testes de software?

@@ -51,7 +51,7 @@ Obtive 100% de êxito em todos os projetos. Foram concluídos do início ao fina
 
 #### Comentário
 Me identifiquei bastante na parte de SQL comandos e da parte de back End.
-Usando o Postman, Jira, Endpoint.
+Usando o Postman, Jira, Endpoint, Swagger, Apidoc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,30 @@
 <h1 align="center">Hi 👋, I'm Alex Rebello</h1>
-<h3 align="center">Estou em busca de novos desafios, e realizei um curso de Analista de QA, também podemos dizer, analista de testes de software. O bootcamp da TripleTen, sempre quis aprender algo em ralação a tecnologia da informação, então agora tenho o conhecimento de um analista júnior de testes aberto a novos desafios e disposto á colaborar com esse universo as empresas deste segmento.</h3>
+<h3 align="center">Sou publicitário com experiência em projetos ágeis e gerencia de lojas. Formado e aprimorando-se como Analista de Qualidade de Software. 
+Especializado em Testes Manuais e Automatizados em aplicativos e web, back e front end.
+Estou em busca de novos desafios como analista de testes de software, disposto á colaborar com esse universo as empresas deste segmento.
+
+Atualmente estou desenvolvendo um aplicativo Web, para minha startup voltada ao entretenimento artístico mundial chamada: "ShowliveTv" 
+
+Skills:
+Testes Automatizados e Manuais de Aplicativos
+Casos de Teste
+Documentação 
+Rastreamento e Relatórios de Bugs
+
+Ferramentas e Tecnologias
+Jira
+Postman API
+SQL
+Cygwin64 Terminal
+Swagger
+
+Metodologias: Scrum, BDD (Desenvolvimento Orientado a Comportamento)
+Banco de Dados: SQL
+Habilidades Adicionais: Comunicação, Resolução de Problemas, Trabalho em equipe, Disciplina, Organização, Empatia, Pró-atividade.
+
+Mais informações, fiquem á vontade para entrar em contato:
+
+📧E-mail: alexcamposcontato@gmail.com </h3>
 
 - 🔭 I’m currently working on **Riccio Cucina Artgianale**
 
@@ -10,48 +35,6 @@
 - 📫 How to reach me **alexcamposcontato@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/alexcrebello](www.linkedin.com/in/alexcrebello)
-
-### BootCamp Analista de QA
-  
-#### Sprint 1 
-- Introdução à análise de QA
-- O que são testes de software?
-- Desenvolvimento e Teste
-- Checklists
-- Relatórios de Bugs
-- Casos de testes
-  
-#### Sprint 2
-- Análise de requesitos
-- Design de teste
-- Socumnetação de teste
-
-#### Sprint 3
-- Introdução ao teste de aplicativos web
-- Como um aplicativo web funciona
-- Teste de interface do usuário de um aplicativo web
-- Teste entre plataformas e navegadores
-- Teste de design web responsivo
-
-#### Sprint 4
-- Introdução á Api
-- Testes de API com postman
-- Design de testes para teste de Api
-
-#### Sprint 5
-- Linha de comando
-- Noções básicas de SQL
-
-#### Projeto Final
-- App da Web Urban Scooter
-- Api do App Urban Scooter
-
-#### Conclusão
-Obtive 100% de êxito em todos os projetos. Foram concluídos do início ao final. Com toda entrega de tarefas propostas pelo curso.
-
-#### Comentário
-Me identifiquei bastante na parte de SQL comandos e da parte de back End.
-Usando o Postman, Jira, Endpoint, Swagger, Apidoc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

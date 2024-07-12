@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Rebello</h1>
-<h3 align="center">Sou publicitário com experiência em projetos ágeis e gerencia de lojas. Formado e aprimorando-se como Analista de Qualidade de Software. 
+👋Olá á todos!! Publicitário com experiência em projetos ágeis e gerencia de lojas. Formado e aprimorando-se como Analista de Qualidade de Software. 
 Especializado em Testes Manuais e Automatizados em aplicativos e web, back e front end.
 Estou em busca de novos desafios como analista de testes de software, disposto á colaborar com esse universo as empresas deste segmento.
 
@@ -24,17 +23,8 @@ Habilidades Adicionais: Comunicação, Resolução de Problemas, Trabalho em equ
 
 Mais informações, fiquem á vontade para entrar em contato:
 
-📧E-mail: alexcamposcontato@gmail.com </h3>
+ **alexcamposcontato@gmail.com**
 
-- 🔭 I’m currently working on **Riccio Cucina Artgianale**
-
-- 🌱 I’m currently learning **Triple Ten**
-
-- 💬 Ask me about **Testes de Apps e Web**
-
-- 📫 How to reach me **alexcamposcontato@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/alexcrebello](www.linkedin.com/in/alexcrebello)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

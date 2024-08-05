@@ -1,5 +1,4 @@
-👋Olá á todos!! Publicitário com experiência em projetos ágeis e gerencia de lojas. Formado e aprimorando-se como Analista de Qualidade de Software. 
-Especializado em Testes Manuais e Automatizados em aplicativos e web, back e front end.
+👋Olá á todos!! Sou Publicitário com experiência em: Direção de arte, projetos ágeis, gerencia de equipes e operações. Formado e aprimorando-se como Analista de Qualidade de Software (QA). Especializado em testes manuais, e automatizados: Aplicativos e web, back e front end, com foco em: Qualidade de design, relatórios de bugs, e ferramentas como: Jira, Postaman API, Swagger, Figma, SQL/Banco de dados.
 Estou em busca de novos desafios como analista de testes de software, disposto á colaborar com esse universo as empresas deste segmento.
 
 Atualmente estou desenvolvendo um aplicativo Web, para minha startup voltada ao entretenimento artístico mundial chamada: "ShowliveTv" 
@@ -13,9 +12,9 @@ Rastreamento e Relatórios de Bugs
 Ferramentas e Tecnologias
 Jira
 Postman API
-SQL
 Cygwin64 Terminal
 Swagger
+Drawio
 
 Metodologias: Scrum, BDD (Desenvolvimento Orientado a Comportamento)
 Banco de Dados: SQL
